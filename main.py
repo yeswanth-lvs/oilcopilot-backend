@@ -1,3 +1,4 @@
+# Trigger proper deploy
 from fastapi import FastAPI, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
 import fitz  # PyMuPDF
